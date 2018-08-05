@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  Habit
+//
+//  Created by liyangshuai on 2018/8/5.
+//  Copyright © 2018年 liyangshuai. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Header.h"
+#import "BaseHeader.h"
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import <LYSKit/LYSKit.h>
+#import <Masonry/Masonry.h>
+#import <MBProgressHUD/MBProgressHUD.h>
+#import <MJRefresh/MJRefresh.h>
+#import <ReactiveObjC/ReactiveObjC.h>
+
+#endif /* PrefixHeader_pch */

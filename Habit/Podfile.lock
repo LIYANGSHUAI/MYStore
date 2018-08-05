@@ -1,0 +1,36 @@
+PODS:
+  - IQKeyboardManager (6.1.1)
+  - LYSKit (0.0.6)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.1.15.3)
+  - ReactiveObjC (3.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager (~> 6.1.1)
+  - LYSKit (~> 0.0.6)
+  - Masonry (~> 1.1.0)
+  - MBProgressHUD (~> 1.1.0)
+  - MJRefresh (~> 3.1.15.1)
+  - ReactiveObjC (~> 3.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - LYSKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - ReactiveObjC
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 79c57795f5c2408d259d37b9da2ed07efcbb5225
+  LYSKit: dad9471f5283897b08d55511502ea589c9a9c704
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+
+PODFILE CHECKSUM: 39e3a386d27aed45067ad94139ab5e4d84c0d795
+
+COCOAPODS: 1.5.3
